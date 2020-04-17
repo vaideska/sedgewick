@@ -1,0 +1,12 @@
+*.tlog
+*.vcxproj
+*.filters
+*.user
+1/QuickSearch/QuickSearch/Debug/
+*.ipch
+*.pdb
+*.ilk
+*.exe
+*.db
+*.suo
+*.sln
