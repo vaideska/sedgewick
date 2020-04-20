@@ -1,12 +1,2 @@
-*.tlog
-*.vcxproj
-*.filters
-*.user
-1/QuickSearch/QuickSearch/Debug/
-*.ipch
-*.pdb
-*.ilk
-*.exe
-*.db
-*.suo
-*.sln
+CoherencyProblem/Debug/
+CoherencyProblem/.vs/CoherencyProblem/v16/
